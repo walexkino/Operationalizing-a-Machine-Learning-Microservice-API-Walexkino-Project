@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/walexkino/Operationalizing-a-Machine-Learning-Microservice-API-Walexkino-Project/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/walexkino/Operationalizing-a-Machine-Learning-Microservice-API-Walexkino-Project/tree/master)
 
 # Operationalizing-a-Machine-Learning-Microservice-API
 
